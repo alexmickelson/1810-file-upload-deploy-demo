@@ -1,0 +1,4 @@
+(
+  resolve: (value: any) => void, 
+  reject: (reason?: any) => void
+) => void
