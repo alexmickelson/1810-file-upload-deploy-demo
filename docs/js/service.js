@@ -1,5 +1,6 @@
 
-const baseUrl = "http://localhost:5139/"
+const baseUrl = "https://1810-3pwhxn3v.b4a.run/"
+// const baseUrl = "http://localhost:5139/"
 
 export const getSomethingFromApi  = async () =>{
   const response =await fetch(baseUrl)
